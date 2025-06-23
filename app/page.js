@@ -639,7 +639,7 @@ export default function Home() {
                   <div className="contact-info">
                     <p>
                       <i className="fa fa-user" />
-                      Michael Miller
+                      Deepak Kumawat
                     </p>
                     <p>
                       <i className="fa fa-tag" />
@@ -774,3 +774,5 @@ export default function Home() {
 
   );
 }
+
+
