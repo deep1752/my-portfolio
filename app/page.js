@@ -133,7 +133,7 @@ export default function Home() {
           {/* Large Button Start */}
           <div className="large-btn">
             <div className="content-inner">
-              <a className="btn" href="/resume.pdf" download>
+              <a className="btn" href="/Deepak_Kumawat_Resume.pdf" download>
                 <i className="fa fa-download" />
                 Resume
               </a>
