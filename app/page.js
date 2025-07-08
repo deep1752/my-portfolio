@@ -664,7 +664,7 @@ export default function Home() {
                     </p>
                     <p>
                       <i className="fa fa-envelope" />
-                      <a href="mailto:deepakkumawat1752@gmail.com">deepakkumawat1752@gmail.com</a>
+                      <a href="mailto:deepakkumawat1751@gmail.com">deepakkumawat1751@gmail.com</a>
                     </p>
                     <p>
                       <i className="fa fa-phone" />
