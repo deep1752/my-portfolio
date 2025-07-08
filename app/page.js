@@ -166,7 +166,7 @@ export default function Home() {
                   </a>
                 </div>
               </div>
-              <div className="row">
+              {/* <div className="row">
                 <div className="col-md-6">
                   <div className="skills">
                     <div className="skill-name">
@@ -227,7 +227,22 @@ export default function Home() {
                     </div>
                   </div>
                 </div>
+              </div> */}
+              <div className="row">
+                <div className="col-md-12">
+                  <div className="skills">
+                    <h3 className="skills-heading">SKILLS</h3>
+                    <ul className="skills-list">
+                      <li><strong>Programming Languages:</strong> Python, JavaScript, SQL</li>
+                      <li><strong>Frameworks & Libraries:</strong> React, Next.js, FastAPI</li>
+                      <li><strong>Database:</strong> MySQL</li>
+                      <li><strong>Tools & Platforms:</strong> Postman, Stripe, Git, Google Cloud, Render, Excel</li>
+                      <li><strong>Others:</strong> REST APIs</li>
+                    </ul>
+                  </div>
+                </div>
               </div>
+
             </div>
           </div>
           {/* About End */}
