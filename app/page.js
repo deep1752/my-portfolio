@@ -231,7 +231,9 @@ export default function Home() {
               <div className="row">
                 <div className="col-md-12">
                   <div className="skills">
-                    <h3 className="skills-heading">SKILLS</h3>
+                    <div className="content-header">
+                      <h2>SKILLS</h2>
+                    </div>
                     <ul className="skills-list">
                       <li><strong>Programming Languages:</strong> Python, JavaScript, SQL</li>
                       <li><strong>Frameworks & Libraries:</strong> React, Next.js, FastAPI</li>
