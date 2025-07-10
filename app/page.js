@@ -454,10 +454,10 @@ export default function Home() {
                       >
                         <i className="fa fa-eye" />
                       </a>
-                      <a href="https://gymstar-master.onrender.com" className="link-details" title="More Details">
+                      <a href="https://gym-star-master-bay.vercel.app" className="link-details" title="More Details">
                         <i className="fa fa-link" />
                       </a>
-                      <a className="portfolio-title" href="https://gymstar-master.onrender.com">
+                      <a className="portfolio-title" href="https://gym-star-master-bay.vercel.app">
                         GymStar <span>Get Gym Membership Plan</span>
                       </a>
                     </figure>
@@ -476,10 +476,10 @@ export default function Home() {
                       >
                         <i className="fa fa-eye" />
                       </a>
-                      <a href="https://my-bus-master.onrender.com" className="link-details" title="More Details">
+                      <a href="https://my-bus-master-cb8nr4qyd-deep1752s-projects.vercel.app" className="link-details" title="More Details">
                         <i className="fa fa-link" />
                       </a>
-                      <a className="portfolio-title" href="https://my-bus-master.onrender.com">
+                      <a className="portfolio-title" href="https://my-bus-master-cb8nr4qyd-deep1752s-projects.vercel.app">
                         My Bus <span>Book Online Bus Ticket</span>
                       </a>
                     </figure>
@@ -498,10 +498,10 @@ export default function Home() {
                       >
                         <i className="fa fa-eye" />
                       </a>
-                      <a href="https://building-construction.onrender.com" className="link-details" title="More Details">
+                      <a href="https://building-construction-rho.vercel.app/" className="link-details" title="More Details">
                         <i className="fa fa-link" />
                       </a>
-                      <a className="portfolio-title" href="https://building-construction.onrender.com/">
+                      <a className="portfolio-title" href="https://building-construction-rho.vercel.app/">
                         Building Construction <span>Web Development</span>
                       </a>
                     </figure>
@@ -520,10 +520,10 @@ export default function Home() {
                       >
                         <i className="fa fa-eye" />
                       </a>
-                      <a href="https://drymate-master.onrender.com/" className="link-details" title="More Details">
+                      <a href="https://dry-mate-master.vercel.app/" className="link-details" title="More Details">
                         <i className="fa fa-link" />
                       </a>
-                      <a className="portfolio-title" href="https://drymate-master.onrender.com/">
+                      <a className="portfolio-title" href="https://dry-mate-master.vercel.app/">
                         DryMate <span>Organic Mushroom Farming Traiing and Products </span>
                       </a>
                     </figure>
@@ -542,10 +542,10 @@ export default function Home() {
                       >
                         <i className="fa fa-eye" />
                       </a>
-                      <a href="https://e-shop-master.onrender.com" className="link-details" title="More Details">
+                      <a href="https://e-shop-master-jade.vercel.app/" className="link-details" title="More Details">
                         <i className="fa fa-link" />
                       </a>
-                      <a className="portfolio-title" href="https://e-shop-master.onrender.com">
+                      <a className="portfolio-title" href="https://e-shop-master-jade.vercel.app/">
                         E shop <span>Online Shoping</span>
                       </a>
                     </figure>
@@ -564,10 +564,10 @@ export default function Home() {
                       >
                         <i className="fa fa-eye" />
                       </a>
-                      <a href="https://ngo-1e0u.onrender.com" className="link-details" title="More Details">
+                      <a href="https://ngo-vert.vercel.app/" className="link-details" title="More Details">
                         <i className="fa fa-link" />
                       </a>
-                      <a className="portfolio-title" href="https://ngo-1e0u.onrender.com">
+                      <a className="portfolio-title" href="https://ngo-vert.vercel.app/">
                         NGO <span>Donate To NGO</span>
                       </a>
                     </figure>
