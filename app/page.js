@@ -476,10 +476,10 @@ export default function Home() {
                       >
                         <i className="fa fa-eye" />
                       </a>
-                      <a href="https://my-bus-master-cb8nr4qyd-deep1752s-projects.vercel.app" className="link-details" title="More Details">
+                      <a href="https://my-bus-master.vercel.app" className="link-details" title="More Details">
                         <i className="fa fa-link" />
                       </a>
-                      <a className="portfolio-title" href="https://my-bus-master-cb8nr4qyd-deep1752s-projects.vercel.app">
+                      <a className="portfolio-title" href="https://my-bus-master.vercel.app">
                         My Bus <span>Book Online Bus Ticket</span>
                       </a>
                     </figure>
@@ -542,10 +542,10 @@ export default function Home() {
                       >
                         <i className="fa fa-eye" />
                       </a>
-                      <a href="https://e-shop-master-jade.vercel.app/" className="link-details" title="More Details">
+                      <a href="https://e-shop-master-khaki.vercel.app" className="link-details" title="More Details">
                         <i className="fa fa-link" />
                       </a>
-                      <a className="portfolio-title" href="https://e-shop-master-jade.vercel.app/">
+                      <a className="portfolio-title" href="https://e-shop-master-khaki.vercel.app">
                         E shop <span>Online Shoping</span>
                       </a>
                     </figure>
@@ -792,4 +792,4 @@ export default function Home() {
   );
 }
 
-
+  
