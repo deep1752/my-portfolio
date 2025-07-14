@@ -454,10 +454,10 @@ export default function Home() {
                       >
                         <i className="fa fa-eye" />
                       </a>
-                      <a href="https://gym-star-master-bay.vercel.app" className="link-details" title="More Details">
+                      <a href="https://gym-star-master-nu.vercel.app" className="link-details" title="More Details">
                         <i className="fa fa-link" />
                       </a>
-                      <a className="portfolio-title" href="https://gym-star-master-bay.vercel.app">
+                      <a className="portfolio-title" href="https://gym-star-master-nu.vercel.app">
                         GymStar <span>Get Gym Membership Plan</span>
                       </a>
                     </figure>
@@ -520,10 +520,10 @@ export default function Home() {
                       >
                         <i className="fa fa-eye" />
                       </a>
-                      <a href="https://dry-mate-master.vercel.app/" className="link-details" title="More Details">
+                      <a href="https://www.drymatemushrooms.in" className="link-details" title="More Details">
                         <i className="fa fa-link" />
                       </a>
-                      <a className="portfolio-title" href="https://dry-mate-master.vercel.app/">
+                      <a className="portfolio-title" href="https://www.drymatemushrooms.in">
                         DryMate <span>Organic Mushroom Farming Traiing and Products </span>
                       </a>
                     </figure>
@@ -792,4 +792,5 @@ export default function Home() {
   );
 }
 
-  
+
+
