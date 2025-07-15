@@ -441,6 +441,28 @@ export default function Home() {
                 </div>
               </div>
               <div className="row portfolio-container">
+                <div className="col-lg-4 col-md-6 portfolio-item web-dev">
+                  <div className="portfolio-wrap">
+                    <figure>
+                      <img src="img/portfolio-4.jpg" className="img-fluid" alt="" />
+                      <a
+                        href="img/portfolio-4.jpg"
+                        className="link-preview"
+                        data-lightbox="portfolio"
+                        data-title="DryMate"
+                        title="Preview"
+                      >
+                        <i className="fa fa-eye" />
+                      </a>
+                      <a href="https://www.drymatemushrooms.in" className="link-details" title="More Details">
+                        <i className="fa fa-link" />
+                      </a>
+                      <a className="portfolio-title" href="https://www.drymatemushrooms.in">
+                        DryMate <span>Organic Mushroom Farming Traiing and Products </span>
+                      </a>
+                    </figure>
+                  </div>
+                </div>
                 <div className="col-lg-4 col-md-6 portfolio-item web-des">
                   <div className="portfolio-wrap">
                     <figure>
@@ -459,6 +481,28 @@ export default function Home() {
                       </a>
                       <a className="portfolio-title" href="https://gym-star-master-nu.vercel.app">
                         GymStar <span>Get Gym Membership Plan</span>
+                      </a>
+                    </figure>
+                  </div>
+                </div>
+                <div className="col-lg-4 col-md-6 portfolio-item dig-mar">
+                  <div className="portfolio-wrap">
+                    <figure>
+                      <img src="img/portfolio-5.jpg" className="img-fluid" alt="" />
+                      <a
+                        href="img/portfolio-5.jpg"
+                        className="link-preview"
+                        data-lightbox="portfolio"
+                        data-title="E shop"
+                        title="Preview"
+                      >
+                        <i className="fa fa-eye" />
+                      </a>
+                      <a href="https://e-shop-master-khaki.vercel.app" className="link-details" title="More Details">
+                        <i className="fa fa-link" />
+                      </a>
+                      <a className="portfolio-title" href="https://e-shop-master-khaki.vercel.app">
+                        E shop <span>Online Shoping</span>
                       </a>
                     </figure>
                   </div>
@@ -507,50 +551,8 @@ export default function Home() {
                     </figure>
                   </div>
                 </div>
-                <div className="col-lg-4 col-md-6 portfolio-item web-dev">
-                  <div className="portfolio-wrap">
-                    <figure>
-                      <img src="img/portfolio-4.jpg" className="img-fluid" alt="" />
-                      <a
-                        href="img/portfolio-4.jpg"
-                        className="link-preview"
-                        data-lightbox="portfolio"
-                        data-title="DryMate"
-                        title="Preview"
-                      >
-                        <i className="fa fa-eye" />
-                      </a>
-                      <a href="https://www.drymatemushrooms.in" className="link-details" title="More Details">
-                        <i className="fa fa-link" />
-                      </a>
-                      <a className="portfolio-title" href="https://www.drymatemushrooms.in">
-                        DryMate <span>Organic Mushroom Farming Traiing and Products </span>
-                      </a>
-                    </figure>
-                  </div>
-                </div>
-                <div className="col-lg-4 col-md-6 portfolio-item dig-mar">
-                  <div className="portfolio-wrap">
-                    <figure>
-                      <img src="img/portfolio-5.jpg" className="img-fluid" alt="" />
-                      <a
-                        href="img/portfolio-5.jpg"
-                        className="link-preview"
-                        data-lightbox="portfolio"
-                        data-title="E shop"
-                        title="Preview"
-                      >
-                        <i className="fa fa-eye" />
-                      </a>
-                      <a href="https://e-shop-master-khaki.vercel.app" className="link-details" title="More Details">
-                        <i className="fa fa-link" />
-                      </a>
-                      <a className="portfolio-title" href="https://e-shop-master-khaki.vercel.app">
-                        E shop <span>Online Shoping</span>
-                      </a>
-                    </figure>
-                  </div>
-                </div>
+
+
                 <div className="col-lg-4 col-md-6 portfolio-item dig-mar">
                   <div className="portfolio-wrap">
                     <figure>
