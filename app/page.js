@@ -77,12 +77,20 @@ export default function Home() {
                       <i className="fa fa-address-card" />
                     </a>
                   </li>
+<<<<<<< HEAD
                   <li className="nav-item">
+=======
+                  {/* <li className="nav-item">
+>>>>>>> 1f2c8e316f8b67bd2920abe48d0bab0d6bc334dd
                     <a className="nav-link" href="#experience">
                       Experience
                       <i className="fa fa-star" />
                     </a>
+<<<<<<< HEAD
                   </li>
+=======
+                  </li> */}
+>>>>>>> 1f2c8e316f8b67bd2920abe48d0bab0d6bc334dd
                   {/* <li className="nav-item">
                     <a className="nav-link" href="#service">
                       Service
@@ -133,7 +141,11 @@ export default function Home() {
           {/* Large Button Start */}
           <div className="large-btn">
             <div className="content-inner">
+<<<<<<< HEAD
               <a className="btn" href="/Deepak-Mern-Stack-Developer.pdf" download>
+=======
+              <a className="btn" href="/Deepak_Kumawat_Resume.pdf" download>
+>>>>>>> 1f2c8e316f8b67bd2920abe48d0bab0d6bc334dd
                 <i className="fa fa-download" />
                 Resume
               </a>
@@ -157,7 +169,13 @@ export default function Home() {
                 </div>
                 <div className="col-md-6 col-lg-7">
                   <p>
+<<<<<<< HEAD
                    Highly motivated MERN Stack Developer skilled in building scalable full-stack applications using React.js, Next.js, Node.js, Express.js, MongoDB, and SQL. Experienced in developing REST APIs, implementing secure authentication, and applying modern software development practices. Demonstrates strong problem-solving and debugging skills, with a commitment to contributing effectively within Agile teams and adapting quickly to new technologies.
+=======
+                    Dedicated Mern Stack Developer with a strong foundation in React, Next.js, node.js, Express.js, Python(FastAPI), MongoDB and MySql.
+                    Passionate about building responsive, user-friendly web applications and eager to contribute to
+                    real-world projects.
+>>>>>>> 1f2c8e316f8b67bd2920abe48d0bab0d6bc334dd
                   </p>
                   <a className="btn" href="#contact">
                     Hire Me
@@ -233,17 +251,28 @@ export default function Home() {
                       <h2>SKILLS</h2>
                     </div>
                     <ul className="skills-list">
+<<<<<<< HEAD
                       <li><strong>Professional Skills:</strong> Problem Solving, Responsive Web Design, Team Collaboration, Agile & Sprint-based Development</li>
                       <li><strong>Frontend:</strong> HTML, CSS, JavaScript, React.js, Next.js</li>
                       <li><strong>Backend:</strong> Node.js, Express.js, REST APIs, JWT Authentication</li>
                       <li><strong>Database:</strong> MongoDB, SQL / MySQL</li>
                       <li><strong>DevOps & Tools:</strong> Git, GitHub, Postman, Stripe, Render, Vercel, Google Cloud</li>
+=======
+                      <li><strong>Programming Languages:</strong> Python, JavaScript, SQL</li>
+                      <li><strong>Frameworks & Libraries:</strong> React, Next.js,Node.js, Express.js, FastAPI</li>
+                      <li><strong>Database:</strong> MySQL, MongoDB</li>
+                      <li><strong>Tools & Platforms:</strong> Postman, Stripe, Git, Google Cloud, Render, Excel</li>
+                      <li><strong>Others:</strong> REST APIs</li>
+>>>>>>> 1f2c8e316f8b67bd2920abe48d0bab0d6bc334dd
                     </ul>
                   </div>
                 </div>
               </div>
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 1f2c8e316f8b67bd2920abe48d0bab0d6bc334dd
             </div>
           </div>
           {/* About End */}
@@ -256,9 +285,15 @@ export default function Home() {
               <div className="row align-items-center">
                 <div className="col-md-6">
                   <div className="edu-col">
+<<<<<<< HEAD
                     {/* <span>
                       2025 <i>to</i> Pursuing
                     </span> */}
+=======
+                    <span>
+                      2025 <i>to</i> Pursuing
+                    </span>
+>>>>>>> 1f2c8e316f8b67bd2920abe48d0bab0d6bc334dd
                     <h3>Master of Computer Applications (MCA)</h3>
                     <p>
                       SGVU, Jaipur, Rajasthan.
@@ -267,9 +302,15 @@ export default function Home() {
                 </div>
                 <div className="col-md-6">
                   <div className="edu-col">
+<<<<<<< HEAD
                     {/* <span>
                       2024 <i>to</i> 2025
                     </span> */}
+=======
+                    <span>
+                      2024 <i>to</i> 2025
+                    </span>
+>>>>>>> 1f2c8e316f8b67bd2920abe48d0bab0d6bc334dd
                     <h3>Mern Stack Development Diploma Course</h3>
                     <p>
                       DAAC, Jaipur, Rajasthan.
@@ -278,9 +319,15 @@ export default function Home() {
                 </div>
                 <div className="col-md-6">
                   <div className="edu-col">
+<<<<<<< HEAD
                     {/* <span>
                       2019 <i>to</i> 2024
                     </span> */}
+=======
+                    <span>
+                      2019 <i>to</i> 2024
+                    </span>
+>>>>>>> 1f2c8e316f8b67bd2920abe48d0bab0d6bc334dd
                     <h3>Bachelor Degree</h3>
                     <p>
                       SKN University, Jobner,Jaipur
@@ -289,9 +336,15 @@ export default function Home() {
                 </div>
                 <div className="col-md-6">
                   <div className="edu-col">
+<<<<<<< HEAD
                     {/* <span>
                       2018
                     </span> */}
+=======
+                    <span>
+                      2018
+                    </span>
+>>>>>>> 1f2c8e316f8b67bd2920abe48d0bab0d6bc334dd
                     <h3>Senior Secondary Education</h3>
                     <p>
                       Bhagasara Bal Mandir, Jobner, Jaipur(Board of Secondary Education Rajasthan).
@@ -305,13 +358,18 @@ export default function Home() {
           </div>
           {/* Education Start */}
           {/* Experience Start */}
+<<<<<<< HEAD
           {/* Experience Start */}
           <div className="experience" id="experience">
+=======
+          {/* <div className="experience" id="experience">
+>>>>>>> 1f2c8e316f8b67bd2920abe48d0bab0d6bc334dd
             <div className="content-inner">
               <div className="content-header">
                 <h2>Experience</h2>
               </div>
               <div className="row align-items-center">
+<<<<<<< HEAD
                 <div className="col-md-12">
                   <div className="exp-col">
                     <span>
@@ -329,15 +387,75 @@ export default function Home() {
                       iterative releases) and reduced development cycle time by 15%. Supported
                       code reviews, debugging, and feature enhancements to ensure clean, scalable,
                       high-quality code.
+=======
+                <div className="col-md-6">
+                  <div className="exp-col">
+                    <span>
+                      01-Jan-2020 <i>to</i> 31-Dec-2050
+                    </span>
+                    <h3>Codex Solution</h3>
+                    <h4>San Francisco, CA</h4>
+                    <h5>Project Manager</h5>
+                    <p>
+                      Lorem ipsum dolor sit amet elit suscipit orci. Donec molestie
+                      velit id libero.
+                    </p>
+                  </div>
+                </div>
+                <div className="col-md-6">
+                  <div className="exp-col">
+                    <span>
+                      01-Jan-2020 <i>to</i> 31-Dec-2050
+                    </span>
+                    <h3>Soft Solution Ltd</h3>
+                    <h4>San Francisco, CA</h4>
+                    <h5>Web Developer</h5>
+                    <p>
+                      Lorem ipsum dolor sit amet elit suscipit orci. Donec molestie
+                      velit id libero.
+                    </p>
+                  </div>
+                </div>
+                <div className="col-md-6">
+                  <div className="exp-col">
+                    <span>
+                      01-Jan-2020 <i>to</i> 31-Dec-2050
+                    </span>
+                    <h3>ABC Soft Ltd</h3>
+                    <h4>San Francisco, CA</h4>
+                    <h5>Web Designer</h5>
+                    <p>
+                      Lorem ipsum dolor sit amet elit suscipit orci. Donec molestie
+                      velit id libero.
+                    </p>
+                  </div>
+                </div>
+                <div className="col-md-6">
+                  <div className="exp-col">
+                    <span>
+                      01-Jan-2020 <i>to</i> 31-Dec-2050
+                    </span>
+                    <h3>Soft Agency</h3>
+                    <h4>San Francisco, CA</h4>
+                    <h5>Graphic Designer</h5>
+                    <p>
+                      Lorem ipsum dolor sit amet elit suscipit orci. Donec molestie
+                      velit id libero.
+>>>>>>> 1f2c8e316f8b67bd2920abe48d0bab0d6bc334dd
                     </p>
                   </div>
                 </div>
               </div>
             </div>
+<<<<<<< HEAD
           </div>
           {/* Experience End */}
 
           {/* Experience end */}
+=======
+          </div> */}
+          {/* Experience Start */}
+>>>>>>> 1f2c8e316f8b67bd2920abe48d0bab0d6bc334dd
           {/* Service Start */}
           {/* <div className="service" id="service">
             <div className="content-inner">
